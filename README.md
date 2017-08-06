@@ -1,4 +1,5 @@
 # hello-word
 my first project
 这是redmeEdits分支的readme文件
-按照说明一步一步创建的readme文件，仅用于测试
+C#版简易飞行棋，利用数组和循环实现。
+由结构体数组存储玩家状态，一维数组存储地图数据，随机数生成玩家行走步数。
